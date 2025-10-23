@@ -59,16 +59,16 @@ git fetch
 
 ## ブランチ関連コマンド
 
-### ブランチを変えたいとき
-
-```bash
-git switch <branch-name>
-```
-
 ### 現在のブランチ一覧を確認したいとき
 
 ```bash
 git branch
+```
+
+### ブランチを変えたいとき
+
+```bash
+git switch <branch-name>
 ```
 
 ### ブランチを新しく作りたいとき
